@@ -7,6 +7,7 @@
 //
 
 #import "ViewController.h"
+#import "GCDAsyncSocket.h"
 
 @interface ViewController ()
 
